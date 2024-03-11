@@ -1,0 +1,27 @@
+.cont{
+    background-color:#676DC1 ;
+    color: white;
+    width: 65vw;
+    
+    
+    height: 7vh;
+    
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+}
+.para{
+    font-size: 18px;
+    margin-left: 3%;
+    
+}
+
+.icon-cont{
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
+
+.icon{
+    margin-left: 20px;
+}
