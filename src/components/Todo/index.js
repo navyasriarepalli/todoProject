@@ -103,7 +103,7 @@ class Todo extends Component{
                         <input type="text" value={userInput} className='input-cont' placeholder='Enter Your Text' onChange={this.onChangeUserInput} />
                         <button className='btn' onClick={this.onClickAddBtn}>Add Todo</button>
                     </div>
-                    <div>
+                    <div className='two'>
                         <ul>
                             {listing.map(each=>(
                                 <Each key={each.uniqueNo} user={each} DeletingTodo={this.DeletingTodo} ModifyingTodo={this.ModifyingTodo}/>

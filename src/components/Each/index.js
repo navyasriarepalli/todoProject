@@ -15,7 +15,9 @@ const Each=props=>{
     }
     return(
         <div className="cont">
+
             <p className="para">{userInput}( Changed by {count} times )</p>
+            
             
             <div className="icon-cont">
             <FaPen onClick={Modifying}  />
