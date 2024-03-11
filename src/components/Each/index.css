@@ -28,7 +28,7 @@
 }
 @media screen and (max-width: 600px){
     .cont{
-        width: 88vw;
+        width: 89vw;
         margin-right: 6%;
         
     }
@@ -39,7 +39,7 @@
         
     }
     .icon{
-        margin-left: 10px;
+        margin-left: 12px;
     }
     .icon-cont{
         margin-top: 12px;
